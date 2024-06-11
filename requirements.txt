@@ -1,0 +1,18 @@
+click==8.1.7
+distlib==0.3.7
+filelock==3.12.2
+gensim==4.3.2
+joblib==1.4.2
+lxml==5.2.2
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+nltk==3.8.1
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp310-cp310-linux_x86_64.whl#sha256=d8cd837ed43e87f77e6efaa08e8de927ca030a1c9c5d04624432d6fb9a74a5ee
+platformdirs==3.10.0
+regex==2024.5.15
+scipy @ file:///croot/scipy_1701295040508/work/dist/scipy-1.11.4-cp310-cp310-linux_x86_64.whl#sha256=a5e5a33a143f627fd4bde622162664c9ea97ff3af56f51c0f4c76ec9d1a340a3
+smart-open==7.0.4
+tqdm==4.66.4
+virtualenv==20.24.3
+wrapt==1.16.0
